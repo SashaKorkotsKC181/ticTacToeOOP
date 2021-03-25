@@ -1,0 +1,16 @@
+/home/intern/Documents/OopTicTacToe/bin/Debug/net5.0/OopTicTacToe
+/home/intern/Documents/OopTicTacToe/bin/Debug/net5.0/OopTicTacToe.deps.json
+/home/intern/Documents/OopTicTacToe/bin/Debug/net5.0/OopTicTacToe.runtimeconfig.json
+/home/intern/Documents/OopTicTacToe/bin/Debug/net5.0/OopTicTacToe.runtimeconfig.dev.json
+/home/intern/Documents/OopTicTacToe/bin/Debug/net5.0/OopTicTacToe.dll
+/home/intern/Documents/OopTicTacToe/bin/Debug/net5.0/ref/OopTicTacToe.dll
+/home/intern/Documents/OopTicTacToe/bin/Debug/net5.0/OopTicTacToe.pdb
+/home/intern/Documents/OopTicTacToe/obj/Debug/net5.0/OopTicTacToe.csprojAssemblyReference.cache
+/home/intern/Documents/OopTicTacToe/obj/Debug/net5.0/OopTicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+/home/intern/Documents/OopTicTacToe/obj/Debug/net5.0/OopTicTacToe.AssemblyInfoInputs.cache
+/home/intern/Documents/OopTicTacToe/obj/Debug/net5.0/OopTicTacToe.AssemblyInfo.cs
+/home/intern/Documents/OopTicTacToe/obj/Debug/net5.0/OopTicTacToe.csproj.CoreCompileInputs.cache
+/home/intern/Documents/OopTicTacToe/obj/Debug/net5.0/OopTicTacToe.dll
+/home/intern/Documents/OopTicTacToe/obj/Debug/net5.0/ref/OopTicTacToe.dll
+/home/intern/Documents/OopTicTacToe/obj/Debug/net5.0/OopTicTacToe.pdb
+/home/intern/Documents/OopTicTacToe/obj/Debug/net5.0/OopTicTacToe.genruntimeconfig.cache
